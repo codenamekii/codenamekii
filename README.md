@@ -63,13 +63,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codenamekii/codenamekii/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codenamekii/codenamekii/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bfzo4tqn26djfke5yldcil26aa)">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=!%5BAlt%20text%5D(https://spotify-recently-played-readme.vercel.app/api?user=31bfzo4tqn26djfke5yldcil26aa)&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
