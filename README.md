@@ -18,16 +18,41 @@
 
 ###
 
-### **Taufiqurrahman (panggil aja fiki)** 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=codenamekii.codenamekii&"  />
+</div>
 
-• kuliah gak kelar-kelar
+###
 
-<br />
+<h1 align="center">👋 Halo, Fiki disini</h1>
 
-[![Website Badge](https://img.shields.io/badge/kiifiki.netlify.app/-fff?style=flat&logo=Google-Chrome&logoColor=333&link=https://kiifiki.netlify.app)](https://kiifiki.netlify.app)
-[![](https://img.shields.io/github/followers/codenamekii?label=GitHub%20Followers)](https://github.com/codenamekii)
-[![](https://komarev.com/ghpvc/?username=codenamekii45&color=red&label=Profile%20Views)](https://github.com/codenamekii/codenamekii)
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/codenamekii)
+###
+
+<p align="left">Seorang NPC yang kebetulan lewat<br><br>- 🔭 masih kuliah gak selesai-selesai<br>- 📚 belajar apapun dimanapun<br>- ⚡ hampir gaada waktu luang</p>
+
+###
+
+<h3 align="center">🛠 keahlian yang gak ahli-ahli amat</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+</div>
 
 ###
 
@@ -38,3 +63,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codenamekii/codenamekii/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codenamekii/codenamekii/output/pacman-contribution-graph.svg">
 </picture>
+
+###
