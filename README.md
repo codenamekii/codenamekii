@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Seorang NPC yang kebetulan lewat<br><br>- 🔭 masih kuliah gak selesai-selesai<br>- 📚 belajar apapun dimanapun<br>- ⚡ hampir gaada waktu luang</p>
+<p align="left">Seorang NPC yang terlalu YOLO<br><br>- 🔭 masih kuliah gak selesai-selesai<br>- 📚 belajar apapun dimanapun<br>- ⚡ hampir gaada waktu luang</p>
 
 ###
 
