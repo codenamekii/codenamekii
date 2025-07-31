@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">👋 Halo, Fiki disini</h1>
+<h1 align="center">👋 や, Fiki disini</h1>
 
 ###
 
